@@ -7,15 +7,32 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI**
+👩‍💻 About Me
 
-- 🌱 I’m currently learning **Full-Stack Development**
+-🎓 Final-year AI & Data Science student.
 
-- 💬 Ask me about **ML,AI**
+-💡 Experienced in Machine Learning, Big Data, and Web Development.
 
-- 📫 How to reach me **reshma162004@gmail.com**
+-🏆 Completed internships in Machine Learning, Big Data, and GeoData Analysis.
 
-- ⚡ Fun fact **I am funny**
+🌟 What I Do
+
+-Automating machine learning workflows for efficiency.
+
+-Building interactive dashboards and visualizations.
+
+-Developing web applications to solve real-world problems.
+
+🚀 Technical Skills
+
+-Programming: Python, JavaScript, SQL, HTML/CSS
+
+-Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Flask
+
+-Platforms: AWS, Microsoft Azure, Power BI
+
+-Others: Data Preprocessing, Feature Engineering, Data Visualization
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
